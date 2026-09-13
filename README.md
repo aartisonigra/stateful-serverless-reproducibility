@@ -1,5 +1,3 @@
-<img width="959" height="437" alt="Screenshot 2026-09-13 125206" src="https://github.com/user-attachments/assets/a1493fec-fad7-4dfb-b881-6314b3caa801" /># Stateful Serverless Reproducibility Experiment
-
 Comprehensive research pilot exploring state persistence, cold/warm start latency dynamics, and state-size overhead in serverless architectures using **AWS Lambda** and **Amazon DynamoDB**.
 
 ## Architecture Overview
