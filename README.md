@@ -1,3 +1,5 @@
+# Stateful Serverless Reproducibility Experiment
+
 Comprehensive research pilot exploring state persistence, cold/warm start latency dynamics, and state-size overhead in serverless architectures using **AWS Lambda** and **Amazon DynamoDB**.
 
 ## Architecture Overview
